@@ -1,6 +1,3 @@
----
-sidebar_label: Engagement with Other Players
----
 # Engagement with Other Players
 
 ## CONSENT

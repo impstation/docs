@@ -1,6 +1,3 @@
----
-sidebar_label: Engagement with The Game
----
 # Engagement with The Game
 ## LRP Limitations
 Powergaming, or playing with the goal of using the most optimal methods possible within the game to the exclusion of all other pursuits, is not appropriate in our MRP setting.  This is not a limitation on being a skilled player, but rather a limit on ignoring roleplay and deeper engagement with other players in favor of “winning”.

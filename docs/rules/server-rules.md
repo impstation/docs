@@ -1,6 +1,3 @@
----
-sidebar_label: Server Rules
----
 # Server Rules
 This is Impstation, the unofficial SS14 server for fans of RTVS. You must be and act at least 20 years old to play on this server. This server is an English-speaking community. You are free to use other languages in-character, but all discussion in out-of-character channels should be in English.
 

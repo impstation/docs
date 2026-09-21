@@ -1,6 +1,3 @@
----
-sidebar_label: Space Law
----
 # Space Law
 In *Space Station 14*, stations operate under **abbreviated space law**, enforced by the **Security Department**.
 

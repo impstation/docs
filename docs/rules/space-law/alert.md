@@ -1,6 +1,3 @@
----
-sidebar_label: Alert Procedure
----
 # Alert Procedure
 Alert levels exist on the station to advise the crew at-large of the state of the station's overall security or well-being. Setting an alert level via the communications computer is an immediate action, so it is often done after sending a message to the crew.
 

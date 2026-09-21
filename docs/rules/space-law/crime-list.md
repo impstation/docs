@@ -1,6 +1,3 @@
----
-sidebar_label: Crime Listing
----
 # Space Law: Crime Listing
 Crime codes are colored by linked crime groups, which are collections of non-stackable crimes. Suffixes are also included in the Quick Crime Guide to identify linked crimes.
 

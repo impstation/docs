@@ -1,6 +1,3 @@
----
-sidebar_label: Roleplay Guidelines
----
 # Impstation MRP Roleplay Guidelines
 
 *compiled by DOSRG*
