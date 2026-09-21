@@ -68,6 +68,12 @@ const config: Config = {
           position: 'left',
           label: 'Contributing',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'rules',
+          position: 'left',
+          label: 'Server Rules',
+        },
       ],
     },
     footer: {
