@@ -11,11 +11,10 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://impstation.github.io',
-  baseUrl: '/imp-docs',
+  url: 'https://docs.impstation.gay',
+  baseUrl: '/',
   organizationName: 'impstation',
   projectName: 'imp-docs',
-  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
