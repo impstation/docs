@@ -14,7 +14,7 @@ const config: Config = {
   url: 'https://docs.impstation.gay',
   baseUrl: '/',
   organizationName: 'impstation',
-  projectName: 'imp-docs',
+  projectName: 'docs',
 
   onBrokenLinks: 'throw',
 
@@ -84,6 +84,11 @@ const config: Config = {
           sidebarId: 'feature',
           position: 'left',
           label: 'Feature Proposals',
+        },
+        {
+          href: 'https://github.com/impstation/docs',
+          label: 'GitHub',
+          position: 'right',
         },
       ],
     },
