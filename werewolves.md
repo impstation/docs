@@ -1,7 +1,7 @@
 
 # *Werewolves*
 
-<FeatureHeader authors='StarlightHowls' status='Feature Status Here'/>
+<FeatureHeader authors='StarlightHowls' status='In Development'/>
 
 ## Concept
 > What if there was a big dog..... think about it
